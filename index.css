@@ -2,7 +2,7 @@
  *::before,
  *::after {
      box-sizing: border-box;
-     font-family: cursive;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  }
 
  :root {
@@ -36,7 +36,8 @@
 
  .container {
      width: 800px;
-     max-width: 70%;
+     max-width: 80%;
+     max-height: 90%;
      background-color: white;
      border: radius 5px;
      padding: 10px;
